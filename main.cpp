@@ -1,7 +1,7 @@
 /*
 Fluid flow and acoustics using the Lattice Boltzmann Method
 air flow through glottis
-Author:Wagner Simioni
+Author:Wagner Rupp
 */
 #include <iostream>
 #include <vector>
